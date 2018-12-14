@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignMode23/DesignMode23.iml" filepath="$PROJECT_DIR$/DesignMode23/DesignMode23.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaDemo.iml" filepath="$PROJECT_DIR$/JavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sokect/Sokect.iml" filepath="$PROJECT_DIR$/Sokect/Sokect.iml" />
     </modules>
   </component>
 </project>
